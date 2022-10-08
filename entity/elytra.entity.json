@@ -8,12 +8,10 @@
       },
       "textures": {
         "default": "textures/models/armor/elytra",
-        "leather": "textures/models/armor/leather_1",
-        "iron": "textures/models/armor/iron_1",
-        "chainmail": "textures/models/armor/chain_1",
-        "gold": "textures/models/armor/gold_1",
-        "diamond": "textures/models/armor/diamond_1",
-        "netherite": "textures/models/armor/netherite_1",
+        "iron": "textures/models/armor/iron_elytra",
+        "gold": "textures/models/armor/gold_elytra",
+        "diamond": "textures/models/armor/diamond_elytra",
+        "netherite": "textures/models/armor/netherite_elytra",
         "none": "textures/entity/llama/decor/decor_none"
       },
       "geometry": {
