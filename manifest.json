@@ -1,22 +1,23 @@
 {
-    "format_version": 2,
-    "header": {
-      "name": "Armored Elytra",
-      "description": "§rA resource pack that adds a chestplate when wearing armor with an elytra\nBedrock pack by §6Plueres",
-      "uuid": "dcd84677-5989-44d7-ad85-cb9e332b1403",
-      "version": [1,0,0],
-      "min_engine_version": [1,19,0]
-    },
-    "modules": [
-      {
-        "type": "resources",
-        "uuid": "993f384e-677d-4aef-8ba1-8439f685b36f",
-        "version": [1,0,0]
-      }
-    ],
-    "metadata": {
-      "authors": [
-        "Plueres"
-      ]
+  "format_version": 2,
+  "header": {
+    "name": "XXVI's Elytra Harness",
+    "description": "§aJava Pack By §lManuelXXVI\n§8§oBedrock port by §6Plueres",
+    "uuid": "ae1aebf3-8813-4e11-a9bb-de0d86f8ebef",
+    "version": [1,0,0],
+    "min_engine_version": [1,19,0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "5c5d5893-69cf-4841-8562-436192ed2fe0",
+      "version": [1,0,0]
     }
+  ],
+  "metadata": {
+    "authors": [
+      "Plueres"
+    ],
+    "url": "https://www.planetminecraft.com/member/plueres/"
   }
+}
