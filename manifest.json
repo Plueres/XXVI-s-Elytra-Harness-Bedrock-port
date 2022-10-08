@@ -1,0 +1,22 @@
+{
+    "format_version": 2,
+    "header": {
+      "name": "Armored Elytra",
+      "description": "§rA resource pack that adds a chestplate when wearing armor with an elytra\nBedrock pack by §6Plueres",
+      "uuid": "dcd84677-5989-44d7-ad85-cb9e332b1403",
+      "version": [1,0,0],
+      "min_engine_version": [1,19,0]
+    },
+    "modules": [
+      {
+        "type": "resources",
+        "uuid": "993f384e-677d-4aef-8ba1-8439f685b36f",
+        "version": [1,0,0]
+      }
+    ],
+    "metadata": {
+      "authors": [
+        "Plueres"
+      ]
+    }
+  }
